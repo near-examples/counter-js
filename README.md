@@ -1,9 +1,9 @@
 # Count on NEAR 🧮 
-[![](https://img.shields.io/badge/⋈%20Examples-basics-green)](https://docs.near.org/tutorials/welcome)
-[![](https://img.shields.io/badge/Gitpod-ready-orange)](https://gitpod.io/#/https://github.com/near-examples/counter-js)
+[![](https://img.shields.io/badge/⋈%20Examples-Basics-green)](https://docs.near.org/tutorials/welcome)
+[![](https://img.shields.io/badge/Gitpod-Ready-orange)](https://gitpod.io/#/https://github.com/near-examples/counter-js)
 [![](https://img.shields.io/badge/Contract-js-yellow)](https://docs.near.org/develop/contracts/anatomy)
-[![](https://img.shields.io/badge/Frontend-js-yellow)](https://docs.near.org/develop/integrate/frontend)
-[![](https://img.shields.io/github/actions/workflow/status/near-examples/counter-js/tests.yml?branch=master&color=green&label=Tests)](https://github.com/near-examples/counter-js/actions/workflows/tests.yml)
+[![](https://img.shields.io/badge/Frontend-JS-yellow)](https://docs.near.org/develop/integrate/frontend)
+[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fnear-examples%2Fcounter-js%2Fbadge&style=flat&label=Tests)](https://actions-badge.atrox.dev/near-examples/counter-js/goto)
 
 
 Count on NEAR is a decentralized app that stores a simple counter, enabling to increment, decrement and reset it.
